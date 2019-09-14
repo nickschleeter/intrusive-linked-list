@@ -1,0 +1,25 @@
+{
+  "name": "intrusive-linked-list",
+  "version": "1.0.0",
+  "description": "Intrusively linked list library for TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickschleeter/intrusive-linked-list.git"
+  },
+  "keywords": [
+    "linked-list",
+    "intrusive",
+    "list",
+    "linked"
+  ],
+  "author": "Nicholas Schleeter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickschleeter/intrusive-linked-list/issues"
+  },
+  "homepage": "https://github.com/nickschleeter/intrusive-linked-list#readme"
+}
