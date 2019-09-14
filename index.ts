@@ -1,5 +1,3 @@
-
-
 /**
  * Inherit from this class to allow embedding inside an intrusively
  * linked list
